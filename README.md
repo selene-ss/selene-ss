@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @selene-ss
 - 👀 I’m interested in learning everything!
 - 🌱 I’m currently learning SQL CS50
-- 💞️ I’m looking to collaborate on IT project coordinator, IT support, and project management
+- 💞️ I’m looking to collaborate on SQL Support, SQL Data Analyst.
 - 📫 How to reach me >>> https://www.linkedin.com/in/sirilak-t/
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: ...
