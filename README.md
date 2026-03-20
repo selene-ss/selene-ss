@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @selene-ss or you can call me Selene!
+- 👋 Hi, I’m Selene. I am currently working as an IT Specialist, and I am looking to transition back into a Software Implementation role or a position where I can fully utilise and further develop my Linux and SQL skills.
   
 - 💞️ I am actively seeking a role where I can leverage my skills and expertise to drive both personal and company growth. I am passionate about making a meaningful impact and am eager to contribute to a team where I can not only fulfil my potential but also inspire and fuel the passion of those around me. I am excited about the opportunity to collaborate with like-minded individuals in an environment that fosters innovation and success.
   
